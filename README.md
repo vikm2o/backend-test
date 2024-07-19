@@ -37,4 +37,4 @@ Postgresql as Database
 Uint tests with atleast 80% Coverage
 
 ## Framework
-Use React Native or Flutter.
+Use Flutter or React Native.
