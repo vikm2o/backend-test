@@ -10,15 +10,15 @@
 	  Product name
 	  Product price
 	  Product quantity
-	  Product Image (You can use image link or use any third-party image hosting provider)
+	  Product Image (You can use an image link or use any third-party image hosting provider)
 - A Detail Page
 
-		In addition to the above details also has product description
+		In addition to the above details, it also has a product description
 - A Product Add Page
 
 ## Backend
-- GET /products Route which lists all products
-- GET /producs/id Route which list product details
+- GET /products Route, which lists all products
+- GET /products/id Route, which lists product details
 - PUT /products Route to add a product
 
 ## Autehtication
@@ -34,7 +34,7 @@
 Postgresql as Database
 
 ## Unit tests
-Uint tests with atleast 80% Coverage
+Unit tests with at least 80% Coverage
 
 ## Framework
 Use Flutter or React Native.
