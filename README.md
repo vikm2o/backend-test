@@ -1,7 +1,7 @@
 
 # Full-stack-test
 
-# Create a cross-platform E-commerce
+# Create a cross-platform E-commerce App
 
 ## Front-End
 - A List Page which shows a list of products
