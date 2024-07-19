@@ -38,3 +38,6 @@ Uint tests with atleast 80% Coverage
 
 ## Framework
 Use Flutter or React Native.
+
+## Submission
+Share a Github Repo with README on how to run the project to vikash@makeit.sg
