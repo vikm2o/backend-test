@@ -21,7 +21,7 @@
 - GET /products/id Route, which lists product details
 - PUT /products Route to add a product
 
-## Autehtication
+## Authentication 
 
     - Use JWT (JSON Web Tokens) for secure authentication.
     - Roles:
